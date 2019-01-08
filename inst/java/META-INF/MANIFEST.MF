@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-codec-1.6.jar lib/icu4j-3.4.4.jar lib/prefuse.
+ jar lib/jdiff.jar lib/gson-2.6.2.jar lib/freehep-graphics2d-2.4.jar l
+ ib/freehep-graphics2d-export-example-2.4.jar lib/freehep-graphicsbase
+ -2.4.jar lib/freehep-graphicsio-2.4.jar lib/freehep-graphicsio-pdf-2.
+ 4.jar lib/freehep-graphicsio-ps-2.4.jar lib/freehep-graphicsio-swf-2.
+ 4.jar
+Main-Class: laser.ddg.gui.DDGExplorer
+

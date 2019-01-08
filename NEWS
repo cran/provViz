@@ -1,0 +1,24 @@
+provViz v1.0.3 (Release date: 2018-12-14)
+==============
+
+Changes:
+
+* Incorporates version of DDG Explorer that no longer supports storing provenance graphs in a database
+
+provViz v1.0.2 (Release date: 2018-12-04)
+==============
+
+Changes:
+
+* Added prov.visualize.file
+* Fixed sorting by execution time
+* Changed Compare DDG command to work with provenance stored in JSON.
+
+
+provViz v1.0.1 (Release date: 2018-09-06)
+==============
+
+Changes:
+
+* Added support for R's graphics device nodes
+
