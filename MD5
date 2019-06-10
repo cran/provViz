@@ -1,11 +1,11 @@
-f83992a7329491171ba329c08f4bb099 *DESCRIPTION
+7f7f706dcfa141f4b4478a8465191af7 *DESCRIPTION
 4ddd17b0c9241d7b24a4960caefe8e40 *LICENSE
 833c0fe2d832cd3faae42ba715b8fbb3 *NAMESPACE
-b252855ec798318e56f792d860a1625b *NEWS
-d554cafcfc06513d5b9ff8a8b16101d2 *R/visprov.R
-c630729ca044f8893e47732dbd964d26 *README.md
+09ff6d5d940362af3b8ba490021c6259 *NEWS
+02f0d998898b515852c4e7a5c9b5ed5e *R/visprov.R
+5b149c39c4138f54daae341cd3161e92 *README.md
 982d31cd7b68cb3666a093da0c7b9b2a *inst/CITATION
-0d7646a7f32661b1967375fb64b632c4 *inst/java/DDGExplorer.jar
+0fe4fa745d4ebadd3adf47b08e4db3a7 *inst/java/DDGExplorer.jar
 71897f3da2ba4039cb676a6beb1f7804 *inst/java/META-INF/MANIFEST.MF
 9e09c26a26e8c95d762ed31d4e1652ca *inst/java/freehep-graphics2d-2.4.jar
 c5958b97fedb6714cec154764abc350e *inst/java/freehep-graphicsbase-2.4.jar
@@ -19,5 +19,5 @@ d32cb5f1a9ccb0fc4a838dd534fca597 *inst/java/freehep-graphicsio-swf-2.4.jar
 47c22ac1a60a0eb48267c98196a62770 *inst/java/prefuse.jar
 47b0c8b03b0308a41a665f62b7e75a78 *inst/testdata/prov.json
 06c9769170d333910caad3b05a3b30fa *inst/testdata/script.R
-380d8dca5a95195a59cf7c0a13c8990b *java/README
+7902864b42ff9c52bd80ce1b71216e5d *java/README
 b3a1d70537c10818e6f886aa4ea76978 *man/prov.visualize.Rd
