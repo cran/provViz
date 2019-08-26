@@ -1,11 +1,11 @@
-7f7f706dcfa141f4b4478a8465191af7 *DESCRIPTION
+9afba92fc5b87f2cad19f2fc38c301ae *DESCRIPTION
 4ddd17b0c9241d7b24a4960caefe8e40 *LICENSE
 833c0fe2d832cd3faae42ba715b8fbb3 *NAMESPACE
-09ff6d5d940362af3b8ba490021c6259 *NEWS
+d520a8c420fa493a25098f48fabda98a *NEWS
 02f0d998898b515852c4e7a5c9b5ed5e *R/visprov.R
 5b149c39c4138f54daae341cd3161e92 *README.md
 982d31cd7b68cb3666a093da0c7b9b2a *inst/CITATION
-0fe4fa745d4ebadd3adf47b08e4db3a7 *inst/java/DDGExplorer.jar
+66868feb6162493cf71295c482b9d703 *inst/java/DDGExplorer.jar
 71897f3da2ba4039cb676a6beb1f7804 *inst/java/META-INF/MANIFEST.MF
 9e09c26a26e8c95d762ed31d4e1652ca *inst/java/freehep-graphics2d-2.4.jar
 c5958b97fedb6714cec154764abc350e *inst/java/freehep-graphicsbase-2.4.jar
@@ -17,7 +17,7 @@ d32cb5f1a9ccb0fc4a838dd534fca597 *inst/java/freehep-graphicsio-swf-2.4.jar
 302e660f8e4928b7417ce145af88cacd *inst/java/gson-2.6.2.jar
 263fe038d8c9f61ffa508ece177b1f2f *inst/java/jdiff.jar
 47c22ac1a60a0eb48267c98196a62770 *inst/java/prefuse.jar
-47b0c8b03b0308a41a665f62b7e75a78 *inst/testdata/prov.json
-06c9769170d333910caad3b05a3b30fa *inst/testdata/script.R
+7cd3f088a4fbd1de95e949f3cce11dad *inst/testdata/prov.json
+06c9769170d333910caad3b05a3b30fa *inst/testscripts/prov.R
 7902864b42ff9c52bd80ce1b71216e5d *java/README
 b3a1d70537c10818e6f886aa4ea76978 *man/prov.visualize.Rd

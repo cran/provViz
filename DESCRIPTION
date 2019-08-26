@@ -1,7 +1,7 @@
 Package: provViz
 Title: Provenance Visualizer
-Version: 1.0.5
-Date: 2019-06-03
+Version: 1.0.6
+Date: 2019-08-06
 Authors@R: c( person( "Emery", "Boose", role = c("ctb"),
                       email = "boose@fas.harvard.edu"),
               person("Barbara", "Lerner", role = c("aut", "cre"),
@@ -42,7 +42,7 @@ RoxygenNote: 6.1.1
 Suggests: rdt, rdtLite
 Additional_repositories: https://end-to-end-provenance.github.io/drat/
 NeedsCompilation: no
-Packaged: 2019-06-10 15:38:06 UTC; blerner
+Packaged: 2019-08-26 18:15:45 UTC; blerner
 Author: Emery Boose [ctb],
   Barbara Lerner [aut, cre],
   Sofiya Taskova [aut],
@@ -56,4 +56,4 @@ Author: Emery Boose [ctb],
   Margo Seltzer [res]
 Maintainer: Barbara Lerner <blerner@mtholyoke.edu>
 Repository: CRAN
-Date/Publication: 2019-06-10 19:30:03 UTC
+Date/Publication: 2019-08-26 22:10:02 UTC
